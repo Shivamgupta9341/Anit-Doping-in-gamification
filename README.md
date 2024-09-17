@@ -29,7 +29,7 @@ The Anti-Doping web application project has several features, including:
 
 1 To run the Anti-Doping web application locally, follow these steps:
 ```
-git clone https://github.com/your-username/Anti_Doping_Application_Sih.git
+git clone https://github.com/Shivamgupta9341/Anti_Doping_Application_Sih.git
 
 ```
 2 Change directory into the project:
